@@ -1,0 +1,428 @@
+---
+title: "**La pobreza y la exclusión social en la infancia y las famílias**"
+subtitle: "[Desigualdad, pobreza y exclusión social](http://www.juliols.ub.edu/curso-verano/desigualdad-pobreza-exclusion-social)"
+author: 'Universidad de Barcelona - Juliols UB<br><a href="mailto:eloimm@yahoo.com"><i class="fa fa-paper-plane fa-fw"></i>&nbsp;Eloi Mayordomo</a> |<a href="http://twitter.com/eloimm"><i class="fa fa-twitter fa-fw"></i>&nbsp;@eloimm</a><br>'
+date: "18/07/18"
+output:
+  xaringan::moon_reader:
+    chakra: libs/remark-latest.min.js
+    css: [default, metropolis, metropolis-fonts]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+```
+name: index
+class: inverse, middle
+# INDICE DE LA PRESENTACIÓN  
+I PARTE: Las políticas sociales y las políticas de infancia
+1. [Debates en políticas sociales](#previa)  
+2. [¿Por qué Políticas de Infancia?](#pol.infancia)  
+  
+II PARTE: Las políticas de Infancia en Catalunya
+1. [Antecedentes](#antecedents)
+2. [LDOIA](#LDOIA)
+3. [Instrumentos](#instrumentos)
+
+III PARTE: La situación de la Infancia en Catalunya
+1. [Limites de las políticas](#limites)
+2. [Análisis expedientes](#expedientes)
+3. [Análisis de la oferta de servicios](#servicios)
+
+IV: PARTE: Bibliografia
+---
+class: center, middle, inverse
+
+# Las políticas sociales y las políticas de infancia  
+* * *
+I PARTE  
+---
+name: previa
+# 1. Previa: Debates en las políticas sociales. 
+ 
+* Políticas sociales **¿universales o focalizadas** (_targeted_)?  
+
+
+* ¿A todas las personas beneficiarias **lo mismo**?  
+
+
+* ¿**Condicionadas** (acceso/continuidad vinculado a determinados comportamientos de las persona beneficiarias)?  
+
+
+
+---
+class: top
+# 1. Previa: Debates en las políticas sociales. 
+** La “paradoja de la redistribución”**  
+>Al discriminar a favor de los pobres, el modelo objetivo crea un conflicto de intereses de suma cero entre los pobres y los trabajadores más acomodados y las clases medias que deben pagar por los beneficios de los pobres sin recibir ningún beneficio. [(Korpi and Palme 1998)](#biblio)  
+  
+--
+  
+  
+Dependiendo del contexto...  
+.pull-left[
+* La focalización no implica reducción de costes    
+* Las estructuras institucionales   
+* La composición demográfica]   
+
+.pull-right[
+* La fuerza de trabajo
+* Niveles de paro  
+* Prácticas de fijación de salario   
+      ...]  
+  
+  
+--
+  
+  
+
+**!!** Focalitzación associada a niveles más altos de redistribución [(Marx, Salanauskaite, & Verbist 2013)](#biblio) y medidas orientadas hacia los que tienen menos ingresos estan asociadas con mayores niveles de reducción de la pobreza infantil [(Van Lancker & Van Mechelen 2015)](#biblio).
+
+---
+# 1. Previa: Debates en las políticas sociales. 
+* Las **políticas de infancia son universales** cuando afectan al conjunto de la Infancia, y son **selectivas (focalizadas)** cuando el efecto de esta esta limitado a un grupo específico de ellos (p.e. infancia en situación de pobreza económica).  
+
+* Mientras que el derecho se refiere a *quién*, la focalización (*targeting*) se refiere a la asignación de recursos (pe. como va a distibuirse el presupuesto) o cómo este se a "repartido" entre las personas beneficiarias (*targeting outcomes*)
+
+* *Mean-teasting* es una técnica para lograr una asignación, un medio para un fin.
+
+---
+background-position: 150% 150%
+class: center, middle, inverse
+
+# ¿Por qué Políticas de Infancia?
+
+![](images/questions.gif)
+
+
+---
+name: pol.infancia
+class: middle, inverse
+# ¿Por qué Políticas de Infancia?
+
+* [*Plasticidad* de la Infancia](#plasticidad)  
+
+* [Desarrollo del talento de una sociedad](#talento)  
+
+* [*Rentabilidad* de la inversión](#rentabilidad)  
+
+* [Bienestar infantil y cohesión social](#cohesion)  
+
+* [Romper la reproducción de la desigualdad](#ciclo)    
+
+ 
+---
+name: plasticidad
+class: middle
+# ¿Por qué Políticas de Infancia?
+## Plasticidad 
+  
+  
+<div align="center">
+<iframe width="750" height="505" src="https://www.youtube.com/embed/m_5u8-QSh6A" frameborder="0" allowfullscreen></iframe>
+   </iframe>
+</div>
+
+---
+name: talento
+# ¿Por qué Políticas de Infancia?
+## Talento 
+
+** Pre-distribución**  
+
+> Una intervención que actúa más sobre las causas que sobre las consecuencias de la desigualdad y la pobreza, una especie de acción preventiva o ex ante, frente a una redistribución que consistiría en acciones curativas o ex post, una vez las situaciones de necesidad o desventaja ya se han producido.[(Noguera, José A., 2016)](#biblio)  
+   
+  
+--
+
+  
+> La mejor política social es una política pro-activa, que pone emfasi en iniciativas de capacitación y empoderamiento individual, con el objetivo no solament de proporcionar un cojín contra situaciones de infortunio, sinó de activar cualidades que favorezcan la autonomía de los individuos y refuercen su valor en el mercado de trabajo. [(Marí-Klose, P. & Marí-Klose, M., 2015)](#biblio)
+
+---
+name: rentabilidad
+# ¿Por qué Políticas de Infancia?
+## Rentabilidad
+```{r Heckman, fig.align="center", out.width='80%', fig.show='hold', echo=FALSE}
+knitr::include_graphics("images/heckman.jpg")
+```
+  
+.center[[Heckman, J. J. (2006)](#biblio)]
+
+---
+name: cohesion
+# ¿Por qué Políticas de Infancia?
+## Cohesión
+```{r pickett, fig.align="center", out.width='75%', fig.show='hold', echo=FALSE}
+knitr::include_graphics("images/wellbeing.jpg")
+```
+.center[[Pickett, K., & Wilkinson, R. (2010)](#biblio)]
+
+---
+name: ciclo
+# ¿Por qué Políticas de Infancia?
+## Ciclo desigualdad
+.pull-left[
+**Transmisión intergeneracional de la pobreza**    
+
+  Riesgo diferencial que tienen las personas que crecieron en hogares pobres a padecer problemas económicos durante su vida adulta
+]  
+
+.pull-right[
+```{r flores, fig.align="center", out.width='75%', fig.show='hold', echo=FALSE}
+knitr::include_graphics("images/TIP.PNG")
+```
+.center[[Flores (2016)](http://www.prodes.org/Informe%20Foessa%20Transmisión%20intergeneracional%20pobreza.pdf)]
+]
+---
+# ¿Por qué Políticas de Infancia?
+## ...*en resumen*
+* La **inversión que la familia de origen realiza en la educación de sus hijos**, muy condicionada por la situación económica que vive el hogar.
+
+
+--
+
+
+* La **transmisión de capacidades y habilidades**, más allá del componente genético, se encuentra **relacionada con la valoración de las mismas por parte de los progenitores y por la existencia de espacios familiares que sirvan como canales para su adquisición**.  
+
+
+--
+
+
+
+* La transmisión de **hábitos de comportamiento, actitudes, principios y valores**, que pueden coadyuvar a la reproducción de la situación de pobreza original, o que pueden dotar de sentido vital (García Roca, 1998) al adulto de forma que se promueva la superación de la situación de desventaja inicial.
+
+
+
+--
+
+
+* La influencia intergeneracional de tipo educativo, más allá de la movilidad educativa ascendente generalizada, que provoca que **el nivel alcanzado por los progenitores condicione el desarrollo educativo de los hijos**, empujando o frenando la consecución de los niveles educativos.
+
+---
+# ¿Por qué Políticas de Infancia?
+## ...*en resumen*
+
+* El **entorno** como escenario facilitador de la movilidad intergeneracional: diversidad sociodemográfica de la población, configuración espacial abierta a la integración y equipamiento dotacional del barrio. O el entorno como espacio generador de estanquidad social: homogeneidad sociodemográfica, configuración espacial generadora de relaciones sociales endogámicas y discriminación dotacional del barrio.
+
+
+--
+
+
+* El **modelo de sociedad como condicionante de la movilidad social**. Existe una **correlación entre aquellas sociedades donde hay una mayor desigualdad en la renta y una menor inversión en políticas sociales**.
+
+---
+# ¿Por qué Políticas de Infancia?
+## ...*en resumen*
+```{r renes, fig.align="center", out.width='65%', fig.show='hold', echo=FALSE}
+knitr::include_graphics("images/exclusiónmenores.PNG")
+```
+.center[[Renes Ayala, Víctor; Lorenzo Gilsanz, Francisco J.(2010)](#biblio)]
+---
+class: center, middle, inverse
+# Las políticas de infancia en Catalunya  
+* * *
+II PARTE 
+
+---
+class: top
+name:antecedents
+# Antecedentes
+## Convención de los Derechos del niño (20 noviembre 1989) [>>](http://www.un.org/es/events/childrenday/pdf/derechos.pdf)
+* Derecho de opinión (art.12)
+* Libertad de expresión (art. 13)
+* Libertad de pensamiento, consciencia y religión (art. 14)
+* Libertad de asociación (art. 15)
+* La protección de la vida privada (art. 16)
+* Derecho a una información adecuada (art. 17)
+
+
+--
+
+
+
+## *Estatut d’Autonomia de Catalunya* (2006) [>>](https://www.parlament.cat/document/cataleg/48146.pdf)
+* Derecho a recibir la atención integral necessaria para el desarrollo de su personalidad y bienestar en el contexto familiar i social (art. 17).
+* Garantizar la protección de la Infancia, esp. explotación, abandono, maltrato o crueldad y de pobreza. El interés superior del niñ@ debe ser prioritario (art. 40.3).
+
+---
+# Antecedentes
+## *Llei 12/2007, d'11 d'octubre, de serveis socials* (2007) [>>](https://www.boe.es/buscar/pdf/2007/BOE-A-2007-19189-consolidado.pdf)
+* Reconoce el derecho de acceso de modo genérico (art.9.2)
+* Intervención en nucleos familiares en situación de riesgo (Art.17)  
+g) “Intervenir en els nuclis familiars o convivencials en situació de risc social, especialment si hi ha menors”.
+n) “Aplicar protocols de prevenció i d'atenció davant de maltractaments a persones dels col·lectius més vulnerables”.
+* Garantiza la “prestación de servicios” (art.21) 
+
+---
+class: center, middle, inverse
+# Llei 14/2010, del 27 de maig, dels drets i les oportunitats en la infància i l’adolescència
+***
+[[>>]](https://www.parlament.cat/document/nom/TL115.pdf)
+
+---
+name:LDOIA
+# LDOIA
+&emsp; &emsp; &emsp; **Promoción** &emsp; &emsp; &emsp; **Prevención** &emsp; &emsp; &emsp; **Atención** &emsp; &emsp; &emsp; **Protección**
+
+--
+
+## Principios de la LDOIA
+* Interes superior del niñ@/adolescente  
+* Principio inspirador de las actuaciones públicas (art. 5.1)  
+* Infancia son el centro de las políticas públicas  
+* Derecho a la vida en família (del menor y de la família)   
+* Transversalitzación de las políticas de Infancia y adolescencia  
+* Coordinación y cooperación institucional  
+
+
+ 
+--
+
+
+
+## Sistema de protección descentralizado
+Se configura un sistema descentralizado de atención y protección pública en que se incorpora también a la ciutadania (Art.100.1) y los profesionales (Art.100.3)
+---
+# LDOIA
+![](images/LDOIA1.png)
+---
+# LDOIA
+![](images/LDOIA2.png)
+---
+# LDOIA
+![](images/LDOIA3.png)
+---
+name: instrumentos
+# Instrumentos
++ Planificación e implementación  
+  - [*Pacte per a la Infància a Catalunya*](http://treballiaferssocials.gencat.cat/ca/ambits_tematics/infancia_i_adolescencia/pacte_infancia_catalunya/)  
+  - [*Pla d’atenció integral a la infància i l'adolescència de Catalunya*](http://treballiaferssocials.gencat.cat/ca/ambits_tematics/infancia_i_adolescencia/politiques_i_plans_dactuacio/pla_atencio_integral_infancia_adolescencia/)  
+  - [*DECRET 250/2013, de 12 de novembre, de la Taula Nacional i les taules territorials i locals d’infància*](http://goo.gl/mK4q5t)  
+
+
+--
+
+
++ Técnicos (valoración del riesgo social)
+  - [*Mòdul de suport a la gestió del risc* (MSGR) - juliol 2011](https://goo.gl/vDXTfn)
+  - [*Ordre BSF/331/2013, de 18 de desembre, per la qual s'aproven les llistes d'indicadors i factors de protecció dels infants i adolescents*.](http://portaldogc.gencat.cat/utilsEADOP/PDF/6530/1331821.pdf)
+  - [*Instrument de cribratge per a la discriminació de les situacions de risc i desemparament*](http://treballiaferssocials.gencat.cat/web/.content/03ambits_tematics/07infanciaiadolescencia/proteccio_infancia_i_adolescencia/destacats/Instrument_de_cribatge_de_situacions_de_risc_i_desemparament/Eina-Cribratge_v1-0_activat.pdf)
+
+---
+
+class: center, middle, inverse
+# La situación de la Infancia en Catalunya 
+* * *
+III PARTE 
+
+---
+name: limites
+# La situación de la Infancia en Catalunya
+### Límites de las **políticas**
+.pull-left[
+* Desarrollo "fragmentado"
+
+* *Governance* - multinivel
+
+* Sistemas de documentación social  
+
+* Hipòtesis | Guías de intervención  
+
+* Evaluación de impacto ]
+.pull-left[
+```{r zerbitzuan, fig.align="center", out.width='70%', fig.show='hold', echo=FALSE}
+knitr::include_graphics("images/zerbitzuan.PNG")
+```
+.center[[Mayordomo & Millán (2017)](#biblio)]]
+
+---
+name: expedientes
+# La situación de la Infancia en Catalunya
+### Gravedad de los expedientes
+```{r gravedad, fig.align="center", out.width='50%', fig.show='hold', echo=FALSE}
+knitr::include_graphics("images/1. riesgo.png")
+```
+.pull-left[
+- &uparrow; situaciones de riesgo social]
+.pull-right[
+- &uparrow; protección último año]
+---
+# La situación de la Infancia en Catalunya
+### Expedientes de riesgo
+```{r riesgo, fig.align="center", out.width='50%', fig.show='hold', echo=FALSE}
+knitr::include_graphics("images/4.1 TIpus Alto Riesgo.png")
+```
+.pull-left[* &uparrow; Riesgo sin COSE]
+.pull-right[* &uparrow; COSE con prestación]
+---
+# La situación de la Infancia en Catalunya
+### Situación administrativa de los expedientes
+```{r situacion, fig.align="center", out.width='50%', fig.show='hold', echo=FALSE}
+knitr::include_graphics("images/2. expedients.png")
+```
+.center[* &uparrow; Riesgo grave]
+---
+name: servicios
+# La situación de la Infancia en Catalunya
+### Análisis de la oferta de servicios
+```{r places, fig.align="center", out.width='50%', fig.show='hold', echo=FALSE}
+knitr::include_graphics("images/Evolplaces.png")
+```
+---
+# La situación de la Infancia en Catalunya
+### Análisis de la oferta de servicios
+```{r co, fig.align="center", out.width='100%', fig.show='hold', echo=FALSE}
+knitr::include_graphics("images/CO.PNG")
+```
+.center[[Diputació de Barcelona (2016)](#biblio)]
+
+---
+class: center, inverse, bottom
+ 
+**Gracias por la atención!** 
+
+
+Contacto: [Email](mailto:eloimm@yahoo.com) | [Twitter](https://twitter.com/eloimm)
+
+---
+
+class: center, middle, inverse
+# Bibliografia
+* * *
+IV PARTE 
+
+---
+name:biblio
+# Bibliografia
+* Diputació de Barcelona. 2016: 15ª edició del cercle de comparació intermunicipal de serveis socials. Resultats any 2015, Barcelona, Diputació de Barcelona <http://www.diba.cat/documents/14465/1770201/Informe+final+de+lliure+disposici%C3%B3+dels+Cercles+de+Comparaci%C3%B3+de+Serveis+Socials+2015.pdf>  
+
+* Flores Martos, Raúl, Mónica Gomez Morán, i Victor Renes Ayala. 2016. La transmisión intergeneracional de la pobreza: factores, procesos y propuestas para la intervención. Fundación FOESSA. Colección Estudios. Fundación FOESSA. <http://www.caritas.es/imagesrepository/CapitulosPublicaciones/5250/transmisi%C3%B3n%20intergeneracional%20pobreza.pdf.>  
+
+* Heckman, J. J. 2006. «Skill Formation and the Economics of Investing in Disadvantaged Children». Science 312 (5782): 1900-1902. <https://doi.org/10.1126/science.1128898.>  
+
+* Korpi, Walter, & Joakim Palme. 1998. «The Paradox of Redistribution and Strategies of Equality: Welfare State Institutions, Inequality, and Poverty in the Western Countries». American Sociological Review 63 (5): 661-87. <https://doi.org/10.2307/2657333.>  
+
+* Mari-Klose, Pau, & Marga Marí-Klose. 2015. «Pobresa infantil i preredistribució». En Mesures predistributives per garantir una major igualtat des de la infància. Programa «La predistribució: repensar les polítiques socials», 6-44. <http://www.catdem.org/cat/downloads2/politiques-predistributives-per-al-primer-cicle-vital-0-18-anys-.-final.pdf.>  
+
+---
+# Bibliografia
+* Marx, I, L Salanauskaite, & G. Verbist. 2013. «The paradox of redistribution revisited: And that it may rest in peace?» IZA Discussion Paper, núm. 7414. <http://ftp.iza.org/dp7414.pdf.>  
+
+* Mayordomo, Eloi, & Millán Cañamares, Xavier. 2017. «Avances, límites y retos en la garantía de derechos de la infancia en Cataluña. Una aproximación desde el ámbito municipal». ZERBITZUAN, núm. 63 (mayo): 75-88. <https://doi.org/10.5569/1134-7147.63.04.>  
+
+* Noguera, José A. 2015. «Predistribución: ¿de qué hablamos, y por qué?» El País, 22 juliol 2015. <http://blogs.elpais.com/alternativas/2015/07/predistribuci%C3%B3n-de-qu%C3%A9-hablamos-y-por-qu%C3%A9.html.>  
+
+* Pickett, Kate, & Richard Wilkinson. 2010. The Spirit Level: Why Equality is Better for Everyone. Penguin.  
+
+* Renes Ayala, Víctor, Lorenzo Gilsanz, & Francisco J. 2010. «El impacto de la crisis en los hogares con menores: pobreza y exclusión social en la infancia». Educación social: revista de intervención socioeducativa. <http://redined.mecd.gob.es/xmlui/handle/11162/28988.>  
+
+---
+# Bibliografia 
+
+* Van Lancker, Wim, & Natascha Van Mechelen. 2015. «Universalism under Siege? Exploring the Association between Targeting, Child Benefits and Child Poverty across 26 Countries». Social Science Research 50 (març): 60-75. <https://doi.org/10.1016/j.ssresearch.2014.11.012.>
+
+- Presentación creada con el paquete de 'R' [xaringan](https://github.com/yihui/xaringan) de Yihui Xie
